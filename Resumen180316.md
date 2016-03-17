@@ -1,1 +1,1 @@
-#Sobreexplotación del Desove de Invertebrados Marinos: Declive del Abulón Chino
+<center> #Sobreexplotación del Desove de Invertebrados Marinos: Declive del Abulón Chino </center>
