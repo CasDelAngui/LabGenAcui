@@ -9,7 +9,7 @@ La falla principal que originó este problema fue el no conocer que el nivel de 
 En este trabajo, se presentaron explicaciones alternativas a la explotación pesquera, con respecto a la disminución en las poblaciones de abulón en California y México.
 
 - **Mortalidad de animales sub-legales:** No pueden coagular por lo que si reciben un corte, mueren desangrándose.
-- **Cosecha ilegal:**
+- **Cosecha ilegal:** Captura intencional de abulón que aún no alcanza su madurez reproductiva, así como la confusión entre especies por sus similitudes morfológicas.
 - **Depredación:**
 - **Competencia:**
 - **Pérdida de hábitat:**
