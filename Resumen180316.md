@@ -13,4 +13,4 @@ En este trabajo, se presentaron explicaciones alternativas a la explotación pes
 - **Depredación:** Cohabitan con organismos que los depredan como, las estrellas de mar (*Pycnopodia* y *Astrometis*), peces (*Scorpaenichthys*, *Myliobatis* y *Semicossyphus*), crustáceos (*Panulirus*, *Cancer* y *Loxorhynchus*) y pulpos (*Octopus* spp.).
 - **Competencia:** Los erizos podrían implicar competencia en disponibilidad de alimento (algas), sin embargo las bajas densidades de ambas especies no ejercen algún efecto sobre la dinámica en las poblaciones. 
 - **Pérdida de hábitat:** En California entre 1950 y 1960, la contaminación sí llevó a una pérdida de hábitat. Así mimo, el cambio climático puede ser otro factor ya que los cambios en las condiciones del agua podrían afectar las etapas larvarias y adultas de los organismos.
-- **Enfermedades:** La más conocida que afecta a los abulones presentes en la costa este del Pacífico, el *síndrome de deshidratación*.
+- **Enfermedades:** La más conocida que afecta a los abulones presentes en la costa este del Pacífico, el "*síndrome de deshidratación*".
