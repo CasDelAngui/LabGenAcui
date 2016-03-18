@@ -11,6 +11,6 @@ En este trabajo, se presentaron explicaciones alternativas a la explotación pes
 - **Mortalidad de animales sub-legales:** No pueden coagular por lo que si reciben un corte, mueren desangrándose.
 - **Cosecha ilegal:** Captura intencional de abulón que aún no alcanza su madurez reproductiva, así como la confusión entre especies por sus similitudes morfológicas.
 - **Depredación:** Cohabitan con organismos que los depredan como, las estrellas de mar (*Pycnopodia* y *Astrometis*), peces (*Scorpaenichthys*, *Myliobatis* y *Semicossyphus*), crustáceos (*Panulirus*, *Cancer* y *Loxorhynchus*) y pulpos (*Octopus* spp.).
-- **Competencia:**
+- **Competencia:** Los erizos podrían implicar competencia en disponibilidad de alimento (algas), sin embargo las bajas densidades de ambas especies no ejercen algún efecto sobre la dinámica en las poblaciones. 
 - **Pérdida de hábitat:**
 - **Enfermedades:**
