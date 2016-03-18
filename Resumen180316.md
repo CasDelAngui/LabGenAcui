@@ -14,3 +14,7 @@ En este trabajo, se presentaron explicaciones alternativas a la explotación pes
 - **Competencia:** Los erizos podrían implicar competencia en disponibilidad de alimento (algas), sin embargo las bajas densidades de ambas especies no ejercen algún efecto sobre la dinámica en las poblaciones. 
 - **Pérdida de hábitat:** En California entre 1950 y 1960, la contaminación sí llevó a una pérdida de hábitat. Así mimo, el cambio climático puede ser otro factor ya que los cambios en las condiciones del agua podrían afectar las etapas larvarias y adultas de los organismos.
 - **Enfermedades:** La más conocida que afecta a los abulones presentes en la costa este del Pacífico, el "*síndrome de deshidratación*".
+
+Al momento del presente trabajo, aún no se desarrollaban del todo esfuerzos por reestablecer las poblaciones de abulón blanco, por lo que se propone que éstos deben enfocarse en los puntos críticos como lo son las bajas densidades, aparente reclutamiento nulo y la edad de los organismos que sobreviven.
+
+Actualmente, la NOAA (*National Oceanic and Atmospheric Administration*) cuenta ya con una serie de programas de repoblamiento del abulón chino.
