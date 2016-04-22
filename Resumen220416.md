@@ -1,7 +1,7 @@
 #Método PCR-RFLP 
 ###Descrito en: *Avances en Técnicas Basadas en ADN para la Detección de la Sustitución en Especies de Mariscos en el Mercado*
 ####Rasmussen-Hellberg RS y Morrissey MT (2011)
-####Artículo (http://jla.sagepub.com/content/16/4/308.full.pdf+html)
+####[Artículo](http://jla.sagepub.com/content/16/4/308.full.pdf+html)
 ----------
 Este método se involucra con la amplificación de un fragmento de ADN previamente seleccionado a partir del uso de primers, ya sean universales o específicos, seguido por una digestión con enzimas de restricción, las cuales reconocen secuencias específicas pequeñas, de 4 a 6 nucleótidos, y realizan un corte para separar en fragmentos.
 Para que este método pueda ser utilizado, es necesario tener previamente la información del fragmento de ADN a amplificar, para así seleccionar las enzimas de restricción adecuadas que produzcan uno o varios perfiles de ADN especie específicos.
