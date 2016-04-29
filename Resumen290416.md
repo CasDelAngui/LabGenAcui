@@ -1,6 +1,5 @@
-#Similitud Genética entre *Boccardia proboscidea* del Oeste de Norteamérica y el Abulón Cultivado, *Haliotis midae*, en Sudáfrica
+#[Similitud Genética entre *Boccardia proboscidea* del Oeste de Norteamérica y el Abulón Cultivado, *Haliotis midae*, en Sudáfrica](http://www.sciencedirect.com/science/article/pii/S0044848609005109)
 ###(Simon *et al*., 2009)
-####[Artículo](http://www.sciencedirect.com/science/article/pii/S0044848609005109)
 ----------
 Para 2008, Sudáfrica era la segunda potencia mayormente proveedora de abulón cultivado, llegando a exportar poco menos de 850 MT, sin embargo, el incremento de organismos infestados con poliquetos espiónidos (los cuales retardan la tasa de crecimiento en los moluscos reduciendo las condiciones de la carne) impactó negativamente a algunas granjas, las cuales tuvieron que sacrificar hasta 500,000 organismos infectados.
 
