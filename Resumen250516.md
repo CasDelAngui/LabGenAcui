@@ -1,4 +1,4 @@
-#[Información Forense de Secuencias de Nucleótidos (FINS) para la Autenticación de Materiales Medicinales Chinos](http://www.ncbi.nlm.nih.gov/pubmed/22153058)
+#[Secuenciación Nucleótidica de Información Forense (FINS) para la Autenticación de Materiales Medicinales Chinos](http://www.ncbi.nlm.nih.gov/pubmed/22153058)
 ####Li M, Zhang KYB, But PPH, Shaw PC, 2011
 -------------
 La técnica FINS combina la secuenciación del ADN y el análisis filogenético, utilizado para la identificación de las muestras, basándose en la información obtenida de las secuencias nucleotídicas.
