@@ -1,4 +1,4 @@
-#Más allá de “Aparición de Abulón Rojo, *Haliotis rufescens*, en la Columbia Británica 
+#[Más allá de “Aparición de Abulón Rojo, *Haliotis rufescens*, en la Columbia Británica](http://journals.sfu.ca/cfn/index.php/cfn/article/viewFile/1079/1083) 
 ###Sloan NA, McDevit DC, Saunders GW, 2010
 ----------
 Hasta antes de 2010 se consideraba a *Haliotis kamtschatkana* como la única especie de abulón presente en la Columbia Británica, sin embargo, la aparición de *Haliotis rufescens* (abulón rojo), en la zona (organismos vivos y conchas) confirma que la extensión del hábitat de ésta especie es mayor al límite que se creía, siendo anteriormente el área de Oregon.
